@@ -32,13 +32,18 @@ Dissertation
 
 - **N Lehrer**, Applied Interdisciplinary Concepts for Designing Visual Media Within Interactive Neurorehabilitation Systems, Arizona State University, Dec 2014. [Link](http://repository.asu.edu/items/26862)
 
-	Committee: [Thanassis Rikakis](http://www.contrib.andrew.cmu.edu/~trikakis/index.html), [Loren Olson](http://ame.asu.edu/faculty/olson/), [Pavan Turaga](http://www.public.asu.edu/~pturaga/), [Steven L Wolf](http://www.rehabmed.emory.edu/pt/faculty/wolf.shtml)
+	Committee: 
+
+	- [Thanassis Rikakis, Carnegie Mellon University](http://www.contrib.andrew.cmu.edu/~trikakis/index.html) 
+	- [Loren Olson, Arizona State University](http://ame.asu.edu/faculty/olson/about) 
+	- [Pavan Turaga, Arizona State University](http://www.public.asu.edu/~pturaga/) 
+	- [Steven L Wolf, Emory University](http://www.rehabmed.emory.edu/pt/faculty/wolf.shtml)
 	
 Journal
 
 - M Baran, **N Lehrer**, M Duff, V Venkataraman, P Turaga, T Ingalls, Z Rymer, SL Wolf, T Rikakis, "Interdisciplinary concepts for design and implementation of mixed reality interactive neurorehabilitation systems for stroke." Physical Therapy Nov 2014 ([E-pub](http://www.ncbi.nlm.nih.gov/pubmed/25425694)), March 2015 (Print) 
 
-- V Venkataraman, P Turaga, M Baran, **N Lehrer**, T Du, C Long, T Rikakis, SL Wolf, "Component-level Tuning of Kinematic Features from Composite Therapist Impressions of Movement Quality", IEEE Journal of Biomedical and Health Informatics, Nov 2014. [pdf](http://www.public.asu.edu/~vvenka18/Papers/IEEE_J-BHI_Paper.pdf)
+- V Venkataraman, P Turaga, M Baran, **N Lehrer**, T Du, C Long, T Rikakis, SL Wolf, "Component-level Tuning of Kinematic Features from Composite Therapist Impressions of Movement Quality", IEEE Journal of Biomedical and Health Informatics, Nov 2014. [pdf](/publications/IEEE_J-BHI_Paper.pdf)
 
 - T Rikakis, A Kelliher, **N Lehrer**, "Experiential Media and Digital Culture." IEEE Computer 46(1): 46-54, Jan 2013. [Link](http://www.computer.org/csdl/mags/co/2013/01/mco2013010046-abs.html)
 
@@ -46,9 +51,9 @@ Journal
 
 - **N Lehrer**, S Attygalle, SL Wolf, T Rikakis. "Exploring the bases for a mixed reality stroke rehabilitation system, Part I: A unified approach for representing action, quantitative evaluation, and interactive feedback.", Journal of NeuroEngineering and Rehabilitation, 8(51) 2011. [online](http://www.jneuroengrehab.com/content/8/1/51)
 
-- **N Lehrer**, Y Chen, M Duff, SL Wolf, T Rikakis. "Exploring the bases for a mixed reality stroke rehabilitation system, Part II: Design of Interactive Feedback for upper limb rehabilitation." Journal of NeuroEngineering and Rehabilitation, 2011 8(54) 2011. [online](http://www.jneuroengrehab.com/content/8/1/51)
+- **N Lehrer**, Y Chen, M Duff, SL Wolf, T Rikakis. "Exploring the bases for a mixed reality stroke rehabilitation system, Part II: Design of Interactive Feedback for upper limb rehabilitation." Journal of NeuroEngineering and Rehabilitation, 2011 8(54) 2011. [online](http://www.jneuroengrehab.com/content/8/1/54)
 
-- Y Chen, M Duff, **N Lehrer**, SM Liu, P Blake, SL Wolf, H Sundaram, and T Rikakis, "A Novel Adaptive Mixed Reality System for Stroke Rehabilitation: Principles, Proof of Concept and Preliminary Application in Two Patients", Topics in Stroke Rehabilitation 2011, 18(3):212–230. [pdf](http://thomasland.metapress.com/content/x816801388107287/fulltext.pdf)
+- Y Chen, M Duff, **N Lehrer**, SM Liu, P Blake, SL Wolf, H Sundaram, and T Rikakis, "A Novel Adaptive Mixed Reality System for Stroke Rehabilitation: Principles, Proof of Concept and Preliminary Application in Two Patients", Topics in Stroke Rehabilitation 2011, 18(3):212–230. [pdf](/publications/topicsAMRR.pdf)
 
 Conference
 
