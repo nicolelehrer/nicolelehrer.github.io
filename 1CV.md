@@ -15,6 +15,8 @@ Education
 Publications
 ===
 
+- 
+
 
 Teaching Assistantship
 ===
@@ -31,7 +33,8 @@ Scholarships and Fellowships
 Visual Arts Honors
 ===
 
-- Juried Undergraduate Student Exhibition, Tulane University Newcomb Art Department, 2007, 2006, 2003
+- Bachelor of Fine Arts Exhibition, Tulane University Newcomb Art Department, 2008
+- Showed in Juried Undergraduate Student Exhibition, Tulane University Newcomb Art Department, 2007, 2006, 2003
 - Class of 1914 Prize, Tulane University Newcomb Art Department, 2007
 - Alice Stirling Parkerson Award for Studio Art, Tulane University Newcomb Art Department, 2005
 - First place in Visual Arts category of Overture to the Cultural Season’s Citywide High School Artistic Awards, New Orleans, 2003
