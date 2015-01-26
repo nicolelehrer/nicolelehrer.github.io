@@ -69,7 +69,7 @@ Conference
 
 - Y Chen, M Duff, **N Lehrer**, H Sundaram, J He, SL Wolf, and T Rikakis T, “A Computational Framework for Quantitative Evaluation of Movement during Rehabilitation”, International Symposium on Computational Models for Life Sciences, Tokyo, Japan, 22-24 June 2011. [pdf](/publications/cmls-kim-final.pdf)
 
-- N. Lehrer, S. Rajko, D. Siwiak, D. Tinapple, I. Wallis, T. Koziupa, M. Chen, M. Baran, A. Kidane, D. Lorig, and L. Olson, "Thrii," Proceedings of ACM Multimedia International Conference (ACM MM), Firenze, Italy. Oct. 25-29, 2010. [pdf](/publications/Thriii_ACMMM2010.pdf)
+- **N Lehrer**, S Rajko, D Siwiak, D Tinapple, I Wallis, T Koziupa, M Chen, M Baran, A Kidane, D Lorig, and L Olson, "Thrii," Proceedings of ACM Multimedia International Conference (ACM MM), Firenze, Italy. Oct. 25-29, 2010. [pdf](/publications/Thriii_ACMMM2010.pdf)
 
 - Y Chen, **N Lehrer**, H Sundaram and T Rikakis. "Adaptive Mixed Reality Stroke Rehabilitation: System Architecture and Evaluation Metrics". 1st Multimedia Systems Conference (MMSys 2010). Feb. 2010. Scottsdale, AZ. [pdf](/publications/mmsys823.pdf)
 
