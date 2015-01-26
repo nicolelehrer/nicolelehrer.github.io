@@ -14,5 +14,9 @@ I got this for you. 2008, 8 x 9 ft
 
 Elmeer. 2007, 19 x 24 in
 
+![alt text](/images/haya.jpg "Haya")
+
+Haya. 2006, 19 x 24 in
+
 </div>
 
