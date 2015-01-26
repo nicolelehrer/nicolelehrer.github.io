@@ -8,7 +8,7 @@ permalink: /painting/
 
 ![alt text](/images/horsePaperStudy.jpg "horse")
 
-Untitled study. In progress, made with [Paper](https://www.fiftythree.com/paper)
+Untitled study. 2014 (In progress), made with [Paper](https://www.fiftythree.com/paper)
 
 ![alt text](/images/untitled.jpg "untitled portrait")
 
