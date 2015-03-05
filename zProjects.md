@@ -27,7 +27,7 @@ The [Mixed Reality Group for Stroke Rehabilitation](http://ame2.asu.edu/projects
 </table>
 
 
-I developed a visual summary of trajectory error for the clinical system, the visual feedback environment for the home-based system, and an iPad app to assist the clinician in discussing progress with the stroke survivor. My contributions to these projects illustrate a media design methodology informed by multiple disciplines, provided in my [dissertation](http://repository.asu.edu/items/26862).
+I developed a visual summary of trajectory error for the clinical system, the visual feedback environment for the home-based system, and an iPad app to assist the clinician in discussing progress with the stroke survivor. My contributions to these projects were used to illustrate a media design methodology for experiential media systems, informed by multiple disciplines and described in my [dissertation](http://repository.asu.edu/items/26862).
 
 <table>
 <tr>
