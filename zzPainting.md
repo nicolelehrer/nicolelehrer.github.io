@@ -32,7 +32,7 @@ Untitled study. 2014 (In progress), made with [Paper](https://www.fiftythree.com
 
 ![alt text](/images/paintings/gabby.jpg "gabby")
 
-Gabby in front. 2015, edited digital photo
+Untitled. 2015, edited digital photo
 
 </div>
 
