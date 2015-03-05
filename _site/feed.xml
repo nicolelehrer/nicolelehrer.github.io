@@ -6,15 +6,15 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 29 Jan 2015 11:13:58 -0700</pubDate>
-    <lastBuildDate>Thu, 29 Jan 2015 11:13:58 -0700</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2015 02:53:25 -0600</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2015 02:53:25 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Setting up</title>
         <description>&lt;p&gt;This is my personal site. Adding info on graduate work, paintings and other projects soon. In the mean time, for more info check out my &lt;a href=&quot;/about&quot;&gt;About&lt;/a&gt; page and &lt;a href=&quot;/CV&quot;&gt;CV&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 24 Jan 2015 06:20:49 -0700</pubDate>
+        <pubDate>Sat, 24 Jan 2015 07:20:49 -0600</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/01/24/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/01/24/welcome-to-jekyll.html</guid>
         

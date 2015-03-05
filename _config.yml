@@ -10,3 +10,8 @@ github_username:  nicolelehrer
 
 # Build settings
 markdown: kramdown
+
+navigation:
+- text: Projects
+  url: /en/projects/
+  layout: project
