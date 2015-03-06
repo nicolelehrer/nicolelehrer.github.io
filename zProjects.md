@@ -13,14 +13,15 @@ The [Mixed Reality Group for Stroke Rehabilitation](http://research.ame.asu.edu/
 
 <table>
 <tr>
-<td class="style24" style="width:400px">
+<td style="width:400px">
 <div style="text-align:center" markdown="1">
-<iframe src="https://player.vimeo.com/video/11640833?color=ffffff&byline=0&portrait=0" width="400" height="300" frameborder="0"></iframe> Clinical system
+<iframe src="https://player.vimeo.com/video/11640833?color=ffffff&byline=0&portrait=0" width="400" height="300"  style="border:none"></iframe> Clinical system
 </div> 
+
 </td>
-<td class="style24" style="width:400px">
+<td style="width:400px">
 <div style="text-align:center" markdown="1">
-<iframe src="https://player.vimeo.com/video/121330688?color=ffffff&byline=0&portrait=0" width="400" height="300" frameborder="0"></iframe> Home System
+<iframe src="https://player.vimeo.com/video/121330688?color=ffffff&byline=0&portrait=0" width="400" height="300"  style="border:none"></iframe> Home System
 </div> 
 </td>
 </tr>
@@ -31,12 +32,12 @@ I developed a visual summary of trajectory error for the clinical system, the vi
 
 <table>
 <tr>
-<td class="style24" style="width:200px">
+<td style="width:200px">
 <div style="text-align:center" markdown="1">
 ![alt text](/images/research/trajError.jpg "Example trajectory summaries") Trajectory summary in clinical system
 </div> 
 </td>
-<td class="style24" style="width:650px">
+<td style="width:650px">
 <div style="text-align:center" markdown="1">
 ![alt text](/images/research/threeLevels.jpg "Three levels of feedback for home system") Visual feedback environment in home system
 </div> 
