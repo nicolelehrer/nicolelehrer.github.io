@@ -76,7 +76,7 @@ Conference
 
 
 
-Visual Arts Honors
+Visual Arts
 ===
 
 Shows
@@ -88,6 +88,7 @@ Awards
 
 (Undergraduate)
 
+- Marjorie Clarke Ferguson Memorial Award, Tulane University Newcomb Art Department, 2008
 - Class of 1914 Prize, Tulane University Newcomb Art Department, 2007
 - Alice Stirling Parkerson Award for Studio Art, Tulane University Newcomb Art Department, 2005
 
