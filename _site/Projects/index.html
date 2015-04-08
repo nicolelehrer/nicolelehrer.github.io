@@ -89,18 +89,20 @@
 	  
 
   <article class="post-content">
-    <p>(<em>Stubs for now, more detail soon</em>)</p>
+    <h1 id="graduate-work-in-interactive-neurorehabilitation">Graduate work in interactive neurorehabilitation</h1>
 
-<h1 id="graduate-work-in-interactive-neurorehabilitation">Graduate work in interactive neurorehabilitation</h1>
+<p>Context</p>
 
-<p>The <a href="http://research.ame.asu.edu/projects/mrr">Mixed Reality Group for Stroke Rehabilitation</a> is a group of collaborators across <a href="http://www.asu.edu">ASU</a>, <a href="http://www.cmu.edu/academics/">CMU</a> and <a href="http://med.emory.edu">Emory</a> focused on designing interactive systems for upper extremity stroke rehabilitation. Two systems have been developed so far, one for clinical supervised training and another for home-based semi-supervised training. </p>
+<p>Interactive neurorehabilitation (INR) refers to the application of any interactive system to neurorehabilitation therapies (e.g. for stroke, traumatic brain injury, Parkinson’s disease). INR systems track and analyze movement of a patient practicing functional activities (e.g. reaching to grasp an object) and provide interactive feedback on performance (e.g. how directly did you reach to a target). The benefit of INR systems is that they offer accurate and detailed means for evaluating movement quality, and based on such analysis, generate augmented feedback on aspects of movement that are otherwise potentially difficult for a patient to monitor individually or in parallel (e.g. monitoring wrist location with respect to torso movement while reaching). </p>
+
+<p>The <a href="http://research.ame.asu.edu/projects/mrr">Mixed Reality Group for Stroke Rehabilitation</a> is a group of collaborators across <a href="http://www.ame.asu.edu">ASU</a>, <a href="http://ideate.cmu.edu">CMU</a>, <a href="http://www.rehabmed.emory.edu/pt/">Emory</a> and <a href="http://smpp.northwestern.edu/research/single/index.html">RIC</a> focused on designing interactive systems for upper extremity stroke rehabilitation. Two systems have been developed so far, one for clinical supervised training and another for training with reduced supervision, such as in the home.</p>
 
 <table>
 <tr>
 <td style="width:400px">
 <div style="text-align:center">
         <iframe src="https://player.vimeo.com/video/11640833?color=ffffff&amp;byline=0&amp;portrait=0" width="400" height="300" style="border:none"></iframe>
-        <p>Clinical system</p>
+        <p>Clinical system <a name="systems"></a></p>
       </div> 
 
 </td>
@@ -113,30 +115,46 @@
 </tr>
 </table>
 
-<p>I developed a visual summary of trajectory error for the clinical system, the visual feedback environment for the home-based system, and an iPad app to assist the clinician in discussing progress with the stroke survivor. My contributions to these projects were also used to illustrate a media design methodology for experiential media systems, informed by multiple disciplines and described in my <a href="http://repository.asu.edu/items/26862">dissertation</a>.</p>
+<p>While the potential for significant impact is clear, large-scale evidence supporting the best methodology for INR system design is lacking. However, information from other disciplines can help advance the design and dissemination of such systems to accelerate testing and future data-driven approaches for sensing, analysis and feedback component design.  </p>
+
+<p>My graduate work focused on designing feedback for INR by applying interdisciplinary concepts derived from external but related fields, such as motor learning and rehabilitation, interactive learning, media arts, and interactive computing. My <a href="http://repository.asu.edu/items/26862">dissertation</a> proposes these concepts and applies them within a compositional framework (i.e. a series of suggested design constraints and approaches) for authoring visual media for INR systems for supervised training, unsupervised training, and assisted reflection. </p>
+
+<p>While the interdisciplinary concepts provided (e.g. multimodality, representation, adaptability, form coherence), as a collection, are specifically applied to INR and stroke rehabilitation, such an approach may also assist the development of media for other interactive learning contexts. INR presents a diverse sampling of challenges, including a user base of various levels of ability and activity training that ranges in terms of type, supervision level, location, and timescale. Such features cut across several dimensions of experiential media systems design and can potentially inform approaches for connecting distributed experiences for general learning, behavior modification and/or awareness, creative practice, among other areas. </p>
+
+<p>A compositional framework that provides an overall approach to using the interdisciplinary concepts is proposed to help media designers (1) tailor feedback to a particular phase of interactive learning while still support an experience that both (2) fits within the overall rehabilitation training continuum and (3) allows for movement in any direction along this continuum. While the order of learning phases can vary by patient, the desired aggregate effect of using a network of experiential media systems is for the patient to gradually achieve a complex learning goal while reducing dependence on augmented feedback. </p>
+
+<p>My contributions to the <a href="#systems">systems shown above</a> include the following: </p>
+
+<p><strong>System for supervised training:</strong> A visual summary of the patient’s trajectory error displayed following the AMRR system’s real-time particle feedback (designed by Loren Olson) to enhance the patient’s offline reflection on his reach performance of an individual reach and grasp. The summary was designed to translate a continuous experience (particles forming an image) into a static summary that could communicate magnitude and direction of error over time. More information on the design of the entire system can be found <a href="http://www.jneuroengrehab.com/content/8/1/51" title="Exploring the bases for a mixed reality stroke rehabilitation system, Part I: A unified approach for representing action, quantitative evaluation, and interactive feedback">here</a> and <a href="http://www.jneuroengrehab.com/content/8/1/54" title="Exploring the bases for a mixed reality stroke rehabilitation system, Part II: Design of Interactive Feedback for upper limb rehabilitation">here</a>, and results comparing this system to traditional rehabilitation can be found <a href="http://nnr.sagepub.com/content/27/4/306.short" title="Adaptive Mixed Reality Rehabilitation Improves Quality of Reaching Movements More Than Traditional Reaching Therapy Following Stroke">here</a>. </p>
 
 <table>
 <tr>
-<td style="width:200px">
-<div style="text-align:center">
-        <p><img src="/images/research/trajError.jpg" alt="alt text" title="Example trajectory summaries" /> Trajectory summary in clinical system</p>
+<td style="width:546px">
+<div style="text-align:left">
+        <p><img src="/images/research/realtimeWithSum.jpg" alt="alt text" title="Real-time feedback with summary" /></p>
       </div> 
 </td>
-<td style="width:650px">
-<div style="text-align:center">
-        <p><img src="/images/research/threeLevels.jpg" alt="alt text" title="Three levels of feedback for home system" /> Visual feedback environment in home system</p>
+<td style="width:500px">
+<div style="text-align:right">
+        <p><img src="/images/research/trajExamples.jpg" alt="alt text" title="Example trajectory summaries" /></p>
       </div> 
 </td>
 </tr>
 </table>
 
-<h1 id="training-monitoring-ipad-app">Training Monitoring iPad App</h1>
+<p><strong>System for unsupervised training:</strong> A multi-level visual environment that responds to multiple aspects of the patient’s movement performance across various types of training tasks, structures of activity, and training sensitivities. The visual environment also uses various feedback design strategies to communicate movement performance, ranging from direct performance display to abstract inference of a narrative, to help facilitate self-evaluation over long timescales of training. Multiple contexts of training are linked using an overarching distributed narrative to connect physical action to several levels of visual summary, as well as gradually facilitate the patient’s self-assessment. </p>
 
-<p>The Training Monitoring iPad app was designed for use by the physical therapist during weekly visits for patients engaged in unsupervised training, and can be used to administer and video-record multiple standardized tasks. Once video is recorded, the therapist can segment videos into individual reaches, and tag those reaches with an overall quality label and detailed comments. The tagged videos are stored in a bank the therapist uses for composing a video story on the participant’s progress and areas for improvement. Each week the therapist can select from any of the past videos that were tagged to arrange them into an updated video story. </p>
+<p><img src="/images/research/threeLevels.jpg" alt="alt text" title="Three levels of feedback for home system" />  </p>
+
+<p><strong>Training Monitoring iPad app:</strong> App designed for use by the physical therapist during weekly visits for patients engaged in unsupervised training to administer and video-record multiple standardized tasks. Once video is recorded, the therapist can segment videos into individual reaches, and tag those reaches with an overall quality label and detailed comments. The tagged videos are stored in a bank the therapist uses for composing a video story on the patient’s progress and areas for improvement. Each week the therapist can select from any of the past videos that were tagged to arrange them into an updated video story.  </p>
 
 <div style="text-align:center">
   <p><img src="/images/research/trainMonitorApp.jpg" alt="alt text" title="Train Monitor" /></p>
 </div>
+
+<p><br /></p>
+
+<p>(<em>More projects soon</em>)</p>
 
   </article>
 
