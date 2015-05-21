@@ -20,7 +20,7 @@ Elmeer. 2007, oil on paper 19 x 24 in
 
 ![alt text](/images/paintings/manetHotdog.jpg "Manet hot dog")
 
-Appropriated E Manet's *Plum Brandy*. 2006, oil on paper 19 x 24 in
+Appropriated E. Manet's *Plum Brandy*. 2006, oil on paper 19 x 24 in
 
 ![alt text](/images/paintings/haya.jpg "Haya")
 
