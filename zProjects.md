@@ -72,4 +72,11 @@ A compositional framework that provides an overall approach to using the interdi
 
 <br/>
 
-(*More projects soon*)
+
+Speech therapy  
+========================= 
+
+I recently worked as a consultant for the <a href="https://chs.asu.edu/research/human-cognition/signal-analysis-representation-and-perception-sarp-laboratory">Signal Analysis, Representation, and Perception (SARP) Group</a> at <a href="http://www.asu.edu">Arizona State University</a> on developing mobile apps for speech therapy. I worked on the front end development for two apps featured [here](http://auralanalytics.com/#vita), one of which was included as a finalist in the [2014 Vodafone Wireless Innovation Competition](http://vodafone-us.com/wireless-innovation-project/past-competitions/2014/2014-finalists/).  
+
+
+(*More details on projects soon*)
