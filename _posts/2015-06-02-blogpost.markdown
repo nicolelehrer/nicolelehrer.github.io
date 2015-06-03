@@ -30,3 +30,5 @@ Once I got the phonebook functionality working, I talked through my code with on
 When learning how to paint, you're often encouraged to step away from your work (for hours, days) to gain a fresh perspective and see the big issues, and the longer you wait the better. While I could have waited a couple days before looking at my code again, I likely wouldn't have realized the problems I did while telling someone about it. There's something about explaining how a program works that makes the major issues stick out right away. 
 
 I plan to re-write this project so that it's more modular in functionality, easier to understand and reuse, and will share the link here. 
+
+*And for when no one is there to listen/cringe - [rubber ducking](http://en.wikipedia.org/wiki/Rubber_duck_debugging), talking aloud through code to inanimate objects*
