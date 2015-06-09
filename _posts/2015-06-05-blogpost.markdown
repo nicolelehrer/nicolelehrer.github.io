@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Recursion practice"
+date:   2015-06-05 22:58:42
+categories: recurse center
+---
+
+Notes from June 5
+
+- With help from others, practiced some recusion excercises for summing an array 
+
+{% highlight objective-c %}
+- (int) returnSumForArray(NSArray * numArray){
+    if ([numArray count] == 1) {
+        return [numArray[0] intValue];
+    }
+    else if([numArray count] == 0){
+        return 0;
+    }
+    else{
+        NSArray * reducedArray = [numArray subarrayWithRange:NSMakeRange(1, [numArray count]-1)];
+        return [numArray[0] intValue] + returnSumForArray(reducedArray);
+    }
+}
+{% endhighlight %}
+
+- and printing out the Nth number of the Fibonacci sequence using a naive approach (values for terms with index < N are calculated more than once, making this a slower approach)
+
+{% highlight objective-c %}
+- (int) returnFibValueAtIndex(int n){
+    if (n==1 || n==2) {
+        return 1;
+    }
+    return returnFibValueAtIndex(n-1) + returnFibValueAtIndex(n-2);
+}
+{% endhighlight %}
