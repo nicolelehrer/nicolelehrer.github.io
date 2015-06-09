@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Blocks and pulling an image from Flickr"
+date:   2015-06-08 22:58:42
+categories: recurse center
+---
+
+Notes from June 8
+
+Read about 
+
+- callback functions
+
+	*a piece of executable code that is passed as an argument to other code, which is expected to call back (execute) the argument at some convenient time.* From [Wikipedia](http://en.wikipedia.org/wiki/Callback_(computer_programming))
+
+- blocks in Objective-C 
+
+	blocks *allow you to create distinct segments of code that can be passed around to methods or functions as if they were values. Blocks are Objective-C objects, which means they can be added to collections like NSArray or NSDictionary. They also have the ability to capture values from the enclosing scope, making them similar to closures or lambdas in other programming languages.* From [Apple Docs](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithBlocks/WorkingwithBlocks.html)
+	
+	interesting note, while you can accomplish similar goals using things like delegation, *in terms of code readability, the block makes it easy to see in one place exactly what will happen before and after the task completes, avoiding the need to trace through delegate methods to find out what’s going to happen.*
+
+- and some other basic things in C in a [nice, concise reference](http://gribblelab.org/CBootcamp/)
+
+Reading up on the above was prompted by learning about requesting and parsing JSON data in IOS / MacOS 
+
+- Converted a Swift-based [IOS example of pulling image data from Flickr by Udacity](https://github.com/udacity/ios-networking) to Objective-C (a language more familiar to me) and ran it as a command line tool for MacOS. The program would end before the block (used to ensure image data is available to display on a view) is finished. 
+
+- Added a BOOL set to YES by the block to ensure program doesn't end before block is finished being executed. 
+
+- But, if you want to change the value of a captured variable from within a block (e.g. toggle an externally initialized flag), you need to declare the variable like this
+{% highlight objective-c %}
+__block BOOL imageDataReceived = NO;
+{% endhighlight %}
+
+- So that *the variable lives in storage that is shared between the lexical scope of the original variable and any blocks declared within that scope.* From [Apple Docs](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithBlocks/WorkingwithBlocks.html)
+
+- A dispatch queue was also used in this example - need more [reading on this](https://developer.apple.com/library/mac/documentation/General/Conceptual/ConcurrencyProgrammingGuide/OperationQueues/OperationQueues.html#//apple_ref/doc/uid/TP40008091-CH102) to ensure that perhaps a different type of queue would have resulted differently, though same result of program ending before block completion was found for using either a synchronous or asynchronous type of queue
+
+
+
+
+
+
