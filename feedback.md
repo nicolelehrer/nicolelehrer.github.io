@@ -59,6 +59,11 @@ A compositional framework that provides an overall approach to using the interdi
 
 ![alt text](/images/research/threeLevels.jpg "Three levels of feedback for home system")  
 
+<br>
+
+<div style="text-align:center" markdown="1">
+<iframe src="https://player.vimeo.com/video/143451884" width="500" height="207" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+</div> 
 
 <br>
 
