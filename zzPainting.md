@@ -7,7 +7,7 @@ permalink: /painting/
 
 ![alt text](/images/paintings/untitled.jpg "untitled portrait")
 
-Untitled study. 2012, oil on paper 19 x 24 in
+2012, oil on paper 19 x 24 in
 
 ![alt text](/images/paintings/igotthisforyou.jpg "I got this for you")
 
@@ -19,7 +19,7 @@ Elmeer. 2007, oil on paper 19 x 24 in
 
 ![alt text](/images/paintings/manetHotdog.jpg "Manet hot dog")
 
-Appropriated E Manet's *Plum Brandy*. 2006, oil on paper 19 x 24 in
+After Edouard Manet's *Plum Brandy*, with a hot dog. 2006, oil on paper 19 x 24 in
 
 ![alt text](/images/paintings/haya.jpg "Haya")
 
@@ -27,15 +27,11 @@ Haya. 2006, oil on paper 19 x 24 in
 
 ![alt text](/images/paintings/back.jpg "back study")
 
-Figure study. 2005, oil on paper 22 x 26 in
+2005, oil on paper 22 x 26 in
 
 ![alt text](/images/paintings/horsePaperStudy.jpg "horse")
 
-Untitled study. 2014 (In progress), made with [Paper](https://www.fiftythree.com/paper)
-
-![alt text](/images/paintings/gabby.jpg "gabby")
-
-Untitled. 2015, edited digital photo
+That horse from the Sopranos. 2015, made with [Paper](https://www.fiftythree.com/paper)
 
 </div>
 
