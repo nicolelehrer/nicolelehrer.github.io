@@ -5,21 +5,13 @@ permalink: /feedback/
 
 Graduate work with the [Mixed Reality Group for Stroke Rehabilitation](http://research.ame.asu.edu/projects/mrr) 
 
-<table>
-<tr>
-<td style="width:400px">
 <div style="text-align:center" markdown="1">
-<iframe src="https://player.vimeo.com/video/11640833?color=ffffff&byline=0&portrait=0" width="400" height="300"  style="border:none"></iframe> Clinical system <a name="systems"></a>
-</div> 
+<iframe src="https://player.vimeo.com/video/11640833?color=ffffff&byline=0&portrait=0" width="100%" height="300"  style="border:none"></iframe> Clinical system <a name="systems"></a>
+</div>
 
-</td>
-<td style="width:400px">
 <div style="text-align:center" markdown="1">
-<iframe src="https://player.vimeo.com/video/121330688?color=ffffff&byline=0&portrait=0" width="400" height="300"  style="border:none"></iframe> Home System
-</div> 
-</td>
-</tr>
-</table>
+<iframe src="https://player.vimeo.com/video/121330688?color=ffffff&byline=0&portrait=0" width="100%" height="300"  style="border:none"></iframe> Home System
+</div>
 
 *Context*
 
@@ -59,11 +51,9 @@ A compositional framework that provides an overall approach to using the interdi
 
 ![alt text](/images/research/threeLevels.jpg "Three levels of feedback for home system")  
 
-<br>
-
 <div style="text-align:center" markdown="1">
-<iframe src="https://player.vimeo.com/video/143451884" width="500" height="207" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-</div> 
+<iframe src="https://player.vimeo.com/video/143451884" width="100%" height="207" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 <br>
 
