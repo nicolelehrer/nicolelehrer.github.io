@@ -1,0 +1,27 @@
+Unit testing in Swift 
+
+Some nice sources from which knowledge was pulled 
+
+I am working in Xcode-beta 
+
+
+http://www.andrewcbancroft.com/2014/12/29/getting-started-unit-testing-swift/
+
+http://www.andrewcbancroft.com/2014/12/29/getting-started-unit-testing-swift/
+http://natashatherobot.com/swift-unit-testing-tips-and-tricks/
+
+
+There are two targets - one for your app's code and one for testing. 
+
+Make any classes and corresponding methods/parameters you want accessible in your tests public, which requires adding a public before them
+
+Or add you class to your test target 
+by selecting your project file on the left, going to utilities on the right (right side pane) and specificing the tagret tests 
+
+
+
+
+I read about class initialization 
+https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Initialization.html#//apple_ref/doc/uid/TP40014097-CH18-ID203
+
+Unlike Objective-C initializers, Swift initializers do not return a value. Their primary role is to ensure that new instances of a type are correctly initialized before they are used for the first time.

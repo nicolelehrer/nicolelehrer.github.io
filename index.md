@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+
+![alt text](/images/artlette/artlette.png "Artlette")
+
+Artlette for iPad - paint with colors from your favorite artworks
+
+<br>
+
+![alt text](/images/speaklear/speaklear.jpg "Speaklear") 
+
+Speaklear mockup for iPad for [Aural Analytics](http://auralanalytics.com/)
+
+<br>
+
+![alt text](/images/trainingMonitoring/trainingMonitoring.png "Training monitoring") 
+
+Training monitoring for stroke rehabilitation research
+
+<br>
+
+![alt text](/images/feedback/feedback.png "Feedback") 
+
+Visual feedback for stroke rehabilitation research
+
+<br>
+
+![alt text](/images/paintings/painting.png "Feedback")
+
+[Paintings](/painting/)
