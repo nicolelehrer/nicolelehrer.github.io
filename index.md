@@ -23,7 +23,7 @@ Training monitoring for stroke rehabilitation research
 
 ![alt text](/images/feedback/feedback.png "Feedback") 
 
-Visual feedback for stroke rehabilitation research
+[Visual feedback for stroke rehabilitation research](/feedback/)
 
 <br>
 
