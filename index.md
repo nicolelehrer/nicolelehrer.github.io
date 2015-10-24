@@ -11,7 +11,7 @@ Artlette for iPad - paint with colors from your favorite artworks
 
 ![alt text](/images/speaklear/speaklear.jpg "Speaklear") 
 
-Speaklear mockup for iPad for [Aural Analytics](http://auralanalytics.com/)
+[Speaklear mockup for iPad](/speech/)
 
 <br>
 

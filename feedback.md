@@ -75,27 +75,27 @@ Dissertation
 	
 Journal
 
-- M Baran, **N Lehrer**, M Duff, V Venkataraman, P Turaga, T Ingalls, Z Rymer, SL Wolf, T Rikakis, "Interdisciplinary concepts for design and implementation of mixed reality interactive neurorehabilitation systems for stroke." Physical Therapy Nov 2014 ([E-pub](http://www.ncbi.nlm.nih.gov/pubmed/25425694)), March 2015 (Print) 
+- M Baran, N Lehrer, M Duff, V Venkataraman, P Turaga, T Ingalls, Z Rymer, SL Wolf, T Rikakis, "Interdisciplinary concepts for design and implementation of mixed reality interactive neurorehabilitation systems for stroke." Physical Therapy Nov 2014 ([E-pub](http://www.ncbi.nlm.nih.gov/pubmed/25425694)), March 2015 (Print) 
 
-- T Rikakis, A Kelliher, **N Lehrer**, "Experiential Media and Digital Culture." IEEE Computer 46(1): 46-54, Jan 2013. [Link](http://www.computer.org/csdl/mags/co/2013/01/mco2013010046-abs.html)
+- T Rikakis, A Kelliher, N Lehrer, "Experiential Media and Digital Culture." IEEE Computer 46(1): 46-54, Jan 2013. [Link](http://www.computer.org/csdl/mags/co/2013/01/mco2013010046-abs.html)
 
-- **N Lehrer**, S Attygalle, SL Wolf, T Rikakis. "Exploring the bases for a mixed reality stroke rehabilitation system, Part I: A unified approach for representing action, quantitative evaluation, and interactive feedback.", Journal of NeuroEngineering and Rehabilitation, 8(51) 2011. [online](http://www.jneuroengrehab.com/content/8/1/51)
+- N Lehrer, S Attygalle, SL Wolf, T Rikakis. "Exploring the bases for a mixed reality stroke rehabilitation system, Part I: A unified approach for representing action, quantitative evaluation, and interactive feedback.", Journal of NeuroEngineering and Rehabilitation, 8(51) 2011. [online](http://www.jneuroengrehab.com/content/8/1/51)
 
-- **N Lehrer**, Y Chen, M Duff, SL Wolf, T Rikakis. "Exploring the bases for a mixed reality stroke rehabilitation system, Part II: Design of Interactive Feedback for upper limb rehabilitation." Journal of NeuroEngineering and Rehabilitation, 2011 8(54) 2011. [online](http://www.jneuroengrehab.com/content/8/1/54)
+- N Lehrer, Y Chen, M Duff, SL Wolf, T Rikakis. "Exploring the bases for a mixed reality stroke rehabilitation system, Part II: Design of Interactive Feedback for upper limb rehabilitation." Journal of NeuroEngineering and Rehabilitation, 2011 8(54) 2011. [online](http://www.jneuroengrehab.com/content/8/1/54)
 
-- Y Chen, M Duff, **N Lehrer**, SM Liu, P Blake, SL Wolf, H Sundaram, and T Rikakis, "A Novel Adaptive Mixed Reality System for Stroke Rehabilitation: Principles, Proof of Concept and Preliminary Application in Two Patients", Topics in Stroke Rehabilitation 2011, 18(3):212–230. [pdf](/publications/topicsAMRR.pdf)
+- Y Chen, M Duff, N Lehrer, SM Liu, P Blake, SL Wolf, H Sundaram, and T Rikakis, "A Novel Adaptive Mixed Reality System for Stroke Rehabilitation: Principles, Proof of Concept and Preliminary Application in Two Patients", Topics in Stroke Rehabilitation 2011, 18(3):212–230. [pdf](/publications/topicsAMRR.pdf)
 
 Conference
 
-- V Venkataraman, P Turaga, **N Lehrer**, M Baran, T Rikakis, and SL Wolf, "Attractor-Shape for Dynamical Analysis of Human Movement: Applications in Stroke Rehabilitation and Action Recognition", IEEE Conference on Computer Vision and Pattern Recognition Workshops, June 2013. [pdf](/publications/AttractorShape.pdf)
+- V Venkataraman, P Turaga, N Lehrer, M Baran, T Rikakis, and SL Wolf, "Attractor-Shape for Dynamical Analysis of Human Movement: Applications in Stroke Rehabilitation and Action Recognition", IEEE Conference on Computer Vision and Pattern Recognition Workshops, June 2013. [pdf](/publications/AttractorShape.pdf)
 
-- D Siwiak, **N Lehrer**, M Baran, Y Chen, M Duff, T Ingalls, and T Rikakis, "A Home-based Adaptive Mixed Reality Rehabilitation System," Proceedings of ACM Multimedia International Conference (ACM MM), Scottsdale, AZ. November 28 - December 1, 2011. [pdf](/publications/HAMRRMMSysScots.pdf)
+- D Siwiak, N Lehrer, M Baran, Y Chen, M Duff, T Ingalls, and T Rikakis, "A Home-based Adaptive Mixed Reality Rehabilitation System," Proceedings of ACM Multimedia International Conference (ACM MM), Scottsdale, AZ. November 28 - December 1, 2011. [pdf](/publications/HAMRRMMSysScots.pdf)
 
-- **N Lehrer**, T Rikakis, and SL Wolf, Presentation: "Experiential Biofeedback & Adaptive Learning Using Mixed Reality for Stroke", Association for Applied Psychophysiology and Biofeedback (AAPB) 42nd Annual Meeting, March 11, 2011, New Orleans.
+- N Lehrer, T Rikakis, and SL Wolf, Presentation: "Experiential Biofeedback & Adaptive Learning Using Mixed Reality for Stroke", Association for Applied Psychophysiology and Biofeedback (AAPB) 42nd Annual Meeting, March 11, 2011, New Orleans.
 
-- M Baran, **N Lehrer**, D Siwiak, Y Chen, M Duff, T Ingalls, and T Rikakis. "Design of a home-based adaptive mixed reality rehabilitation system for stroke survivors." 33rd Annual International IEEE EMBS Conference, Boston, Massachusetts, Aug. 30 - Sept. 3, 2011. [pdf](/publications/DesignHAMRREMBCRevisedFinal.pdf)
+- M Baran, N Lehrer, D Siwiak, Y Chen, M Duff, T Ingalls, and T Rikakis. "Design of a home-based adaptive mixed reality rehabilitation system for stroke survivors." 33rd Annual International IEEE EMBS Conference, Boston, Massachusetts, Aug. 30 - Sept. 3, 2011. [pdf](/publications/DesignHAMRREMBCRevisedFinal.pdf)
 
-- Y Chen, M Duff, **N Lehrer**, H Sundaram, J He, SL Wolf, and T Rikakis T, “A Computational Framework for Quantitative Evaluation of Movement during Rehabilitation”, International Symposium on Computational Models for Life Sciences, Tokyo, Japan, 22-24 June 2011. [pdf](/publications/cmls-kim-final.pdf)
+- Y Chen, M Duff, N Lehrer, H Sundaram, J He, SL Wolf, and T Rikakis T, “A Computational Framework for Quantitative Evaluation of Movement during Rehabilitation”, International Symposium on Computational Models for Life Sciences, Tokyo, Japan, 22-24 June 2011. [pdf](/publications/cmls-kim-final.pdf)
 
-- Y Chen, **N Lehrer**, H Sundaram and T Rikakis. "Adaptive Mixed Reality Stroke Rehabilitation: System Architecture and Evaluation Metrics". 1st Multimedia Systems Conference (MMSys 2010). Feb. 2010. Scottsdale, AZ. [pdf](/publications/mmsys823.pdf)
+- Y Chen, N Lehrer, H Sundaram and T Rikakis. "Adaptive Mixed Reality Stroke Rehabilitation: System Architecture and Evaluation Metrics". 1st Multimedia Systems Conference (MMSys 2010). Feb. 2010. Scottsdale, AZ. [pdf](/publications/mmsys823.pdf)
 
