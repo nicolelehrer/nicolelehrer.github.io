@@ -10,7 +10,7 @@ permalink: /speech/
 
 <br>
 
-[Aural Analytics](http://auralanalytics.com/) is developing mobile apps for speech therapy. I worked on the front end development for two apps featured [here](http://auralanalytics.com/#vita), one of which was included as a finalist in the [2014 Vodafone Wireless Innovation Competition](http://vodafone-us.com/wireless-innovation-project/past-competitions/2014/2014-finalists/).  
+[Aural Analytics](http://auralanalytics.com/) is developing mobile apps for speech therapy. I worked on mocking up two app concepts featured [here](http://auralanalytics.com/#vita), one of which was included as a finalist in the [2014 Vodafone Wireless Innovation Competition](http://vodafone-us.com/wireless-innovation-project/past-competitions/2014/2014-finalists/).  
 
 *Related paper*
 

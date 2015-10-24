@@ -17,7 +17,7 @@ Artlette for iPad - paint with colors from your favorite artworks
 
 ![alt text](/images/trainingMonitoring/trainingMonitoring.png "Training monitoring") 
 
-Training monitoring for stroke rehabilitation research
+[Training monitoring for stroke rehabilitation research](/trainmonitor/)
 
 <br>
 
