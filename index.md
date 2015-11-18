@@ -4,7 +4,7 @@ layout: default
 
 ![alt text](/images/artlette/artlette.png "Artlette")
 
-[Artlette for iPad - paint with colors from your favorite artworks](https://itunes.apple.com/us/app/artlette/id1049210573)
+Artlette for iPad - paint with colors from your favorite artworks / [App preview](https://player.vimeo.com/video/146071354) / [Link to app store](https://itunes.apple.com/us/app/artlette/id1049210573)
 
 <br>
 
