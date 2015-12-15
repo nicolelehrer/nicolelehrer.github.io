@@ -31,7 +31,7 @@ Haya. 2006, oil on paper 19 x 24 in
 
 ![alt text](/images/paintings/horsePaperStudy.jpg "horse")
 
-That horse from the Sopranos. 2015, made with [Paper](https://www.fiftythree.com/paper)
+Horse from the Sopranos. 2015, made with [Paper](https://www.fiftythree.com/paper)
 
 </div>
 
