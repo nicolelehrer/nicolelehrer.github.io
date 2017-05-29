@@ -51,9 +51,9 @@ Compositional guidelines are proposed to help media designers (1) tailor feedbac
 
 ![alt text](/images/research/threeLevels.jpg "Three levels of feedback for home system")  
 
-<div style="text-align:center" markdown="1">
+<!-- <div style="text-align:center" markdown="1">
 <iframe src="https://player.vimeo.com/video/143451884" width="100%" height="207" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+</div> -->
 
 <br>
 
