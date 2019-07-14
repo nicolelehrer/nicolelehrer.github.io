@@ -1,42 +1,29 @@
 ---
 layout: default
 ---
-I'm an IOS developer working on apps for interactive health and creativity. Check out some projects below. 
-
-I recently attended [Recurse Center](https://www.recurse.com/) (FKA Hacker School) in NYC, a self-directed retreat for programmers, where I focused on IOS and Swift.
-
-Before that I was working on my Ph.D. in Media Arts and Sciences at the [School of Arts, Media and Engineering](https://ame.asu.edu) at [ASU](https://www.asu.edu) as part of the [NSF Integrative Graduate Education and Research Traineeship](https://www.igert.org). As a member of the Mixed Reality Rehabilitation lab at ASU, I worked on interactive systems for stroke rehabilitation, with a focus on feedback development. You can find my dissertation [here](https://repository.asu.edu/items/26862).
-
-Before grad school, I studied Biomedical Engineering and Painting at [Tulane University](https://tulane.edu). [Here's](/painting/) some work from my BFA show and a few more recent sketches.
-
+Working on apps for interactive health and creativity - iOS Engineer at [Vimeo](https://vimeo.com/) and previously worked in [research on interactive stroke rehabilitation](https://repository.asu.edu/items/26862). More info on past personal and research projects below.
 
 <br>
 
-![alt text](/images/artlette/artlette.png "Artlette")
-
-Artlette for iPad - paint with colors from your favorite artworks / [App preview](https://player.vimeo.com/video/219398500) / [Link to app store](https://itunes.apple.com/us/app/artlette/id1049210573)
-
-<br>
-
-![alt text](/images/speaklear/speaklear.jpg "Speaklear") 
-
-[Speaklear mockup for iPad](/speech/)
+[![alt text](/images/artlette/artlette.png "Artlette")](https://player.vimeo.com/video/219398500)
+*Artlette for iPad - paint with colors from your favorite artworks*
 
 <br>
 
-![alt text](/images/trainingMonitoring/trainingMonitoring.png "Training monitoring") 
-
-[Training monitoring for stroke rehabilitation research](/trainmonitor/)
-
-<br>
-
-![alt text](/images/feedback/feedback.png "Feedback") 
-
-[Visual feedback for stroke rehabilitation research](/feedback/)
+[![alt text](/images/speaklear/speaklear.jpg "Speaklear")](/speech/)
+*Speaklear for iPad - prototyping speech language pathologist & patient remote therapy workflows*
 
 <br>
 
-![alt text](/images/paintings/painting.png "Feedback")
+[![alt text](/images/trainingMonitoring/trainingMonitoring.png "Training monitoring")](/trainmonitor/)
+*Training monitoring for stroke rehabilitation research*
 
-[Paintings](/painting/)
+<br>
 
+[![alt text](/images/feedback/feedback.png "Feedback")](/feedback/)
+*Visual feedback for stroke rehabilitation research*
+
+<br>
+
+[![alt text](/images/paintings/painting.png "Feedback")](/painting/)
+*Paintings*

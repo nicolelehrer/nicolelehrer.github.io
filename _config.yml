@@ -2,11 +2,12 @@
 title: Nicole Lehrer
 email: nic.lehrer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  © 2015 Nicole Lehrer.
+  © 2019 Nicole Lehrer.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: nicole_lehrer
 github_username:  nicolelehrer
+linkedin_username: nlehrer
 
 # Build settings
 markdown: kramdown
