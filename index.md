@@ -5,8 +5,8 @@ Working on apps for interactive health and creativity - iOS Engineer at [Vimeo](
 
 <br>
 
-[![alt text](/images/artlette/artlette.png "Artlette")](https://player.vimeo.com/video/219398500)
-[Artlette for iPad - paint with colors from your favorite artworks](https://player.vimeo.com/video/219398500)
+[![alt text](/images/artlette/artlette.png "Artlette")](/artlette/)
+[Artlette for iPad - paint with colors from your favorite artworks](/artlette/)
 
 <br>
 
