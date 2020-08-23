@@ -5,23 +5,28 @@ permalink: /feedback/
 
 Graduate work with the [Mixed Reality Group for Stroke Rehabilitation](https://artsmediaengineering.asu.edu/news/mixed-reality-rehabilitation-provides-stroke-patients-physical-therapy)
 
-<div style="text-align:center" markdown="1">
-<iframe src="https://player.vimeo.com/video/11640833?color=ffffff&byline=0&portrait=0" width="100%" height="300"  style="border:none"></iframe> Clinical system <a name="systems"></a>
+<div class="video-responsive">
+<iframe src="https://player.vimeo.com/video/450305077?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="720" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen title="Home System level 1 tasks"></iframe>
 </div>
 
-<div style="text-align:center" markdown="1">
-<iframe src="https://player.vimeo.com/video/121330688?color=ffffff&byline=0&portrait=0" width="100%" height="300"  style="border:none"></iframe> Home System
+<br>
+
+<div class="video-responsive">
+<iframe
+src="https://player.vimeo.com/video/450304859?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="720" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen title="Home System"></iframe>
 </div>
+
+<br>
 
 *Context*
 
-Interactive neurorehabilitation (INR) refers to the application of any interactive system to neurorehabilitation therapies (e.g. for stroke, traumatic brain injury, Parkinson’s disease). INR systems track and analyze movement of a patient practicing functional activities (e.g. reaching to grasp an object) and provide interactive feedback on performance (e.g. how directly did you reach to a target). The benefit of INR systems is that they offer accurate and detailed means for evaluating movement quality, and based on such analysis, generate augmented feedback on aspects of movement that are otherwise potentially difficult for a patient to monitor individually or in parallel (e.g. monitoring wrist location with respect to torso movement while reaching).
+Interactive neurorehabilitation (INR) refers to the application of any interactive system to neurorehabilitation therapies (e.g. for stroke, traumatic brain injury, Parkinson’s disease). INR systems track and analyze movement of a patient practicing functional activities (like reaching to grasp an object) and provide interactive feedback on performance (for example, how directly one reached a target). The benefit of INR systems is that they offer accurate and detailed means for evaluating movement quality, and based on such analysis, generate augmented feedback on aspects of movement that are otherwise potentially difficult for a patient to monitor individually or in parallel (e.g. monitoring wrist location with respect to torso movement while reaching).
 
 While large-scale evidence supporting the best methodology for INR system design is currently lacking, it is proposed that information from other disciplines can be used to accelerate design and testing of INR.
 
 *Contribution*
 
-My graduate work focused on designing feedback for INR by applying interdisciplinary concepts derived from external but related fields, such as motor learning and rehabilitation, interactive learning, media arts, and interactive computing. My [dissertation](https://repository.asu.edu/items/26862) proposes these concepts and applies them with compositional guidelines (i.e. a series of suggested design constraints and approaches) for authoring visual media for INR systems for supervised training, unsupervised training, and assisted reflection.
+My graduate work focused on designing feedback for INR by applying interdisciplinary concepts derived from external but related fields, such as motor learning and rehabilitation, interactive learning, media arts, and interactive computing. My [dissertation](https://repository.asu.edu/items/26862) proposed these concepts and applies them with compositional guidelines (a series of suggested design constraints and approaches) for authoring visual media for INR systems for supervised training, unsupervised training, and assisted reflection.
 
 While the interdisciplinary concepts provided (such as multimodality, representation, adaptability, form coherence) are specifically applied to INR and stroke rehabilitation, such an approach may also assist the development of media for other interactive learning contexts. INR presents a diverse sampling of design challenges, including a user base of various levels of ability, and activity training that ranges in terms of type, supervision level, location, and timescale.
 
@@ -54,6 +59,18 @@ Compositional guidelines are proposed to help media designers (1) tailor feedbac
 <!-- <div style="text-align:center" markdown="1">
 <iframe src="https://player.vimeo.com/video/143451884" width="100%" height="207" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div> -->
+
+<br>
+
+<div class="video-responsive">
+<iframe src="https://player.vimeo.com/video/450577303?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen" allowfullscreen title="Sample feedback for repetitive movement"></iframe>
+</div>
+
+<br>
+
+<div class="video-responsive">
+<iframe src="https://player.vimeo.com/video/450305781?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="720" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen title="Sample feedback for complex movement"></iframe>
+</div>
 
 <br>
 

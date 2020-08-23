@@ -27,11 +27,15 @@ Haya. 2006, oil on paper 19 x 24 in
 
 ![alt text](/images/paintings/back.jpg "back study")
 
-2005, oil on paper 22 x 26 in
+Life painting. 2005, oil on paper 22 x 26 in
 
 ![alt text](/images/paintings/horsePaperStudy.jpg "horse")
 
-Horse from the Sopranos. 2015, made with [Paper](https://www.fiftythree.com/paper)
+Horse from the Sopranos. 2015, iPad
+
+![alt text](/images/paintings/figure.jpg "figure")
+
+Life drawing. 2019, conte on newsprint 19 x 24 in
 
 </div>
 

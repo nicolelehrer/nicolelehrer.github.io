@@ -3,14 +3,14 @@ layout: page
 permalink: /trainmonitor/
 ---
 
-The training monitoring app was used in the stroke rehabilitation research described [here](/feedback/) to help a physical therapist capture and share progress of participants across several weeks of training. 
+The training monitoring app was used in the stroke rehabilitation research described [here](/feedback/) to help the physical therapist capture and share progress of participants across several weeks of training. 
 
-Each week the therapist recorded videos of the participant completing different tasks. An outline of the table was overlaid on the live camera feed to help the therapist quickly position the iPad in a consistent manner for each capture. 
+Each week the therapist recorded videos of the participant completing different tasks. An outline of the table was overlaid on the live camera feed to help the therapist quickly position the iPad consistently for each capture. 
 
 ![alt text](/images/trainingMonitoring/videoCapture.jpg "Video capture with overlay")  
 
 
-The therapist later segmented a video of multiple reaches, first at a coarse level (shown on the left below) and then on a fine level (shown on the right below), by adjusting the start and stop time for each reaching trial. The therapist could also bookmark and annotate videos to show to the participant later.
+The therapist later segmented each video of multiple reaches, first at a coarse level (shown on the left below) and then on a fine level (shown on the right below), by adjusting the start and stop time for each reaching trial. The therapist could also bookmark and annotate videos to show to the participant later.
 
 ![alt text](/images/trainingMonitoring/segmenting.png "Coarse and fine segmenting of video")  
 

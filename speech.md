@@ -3,10 +3,9 @@ layout: page
 permalink: /speech/
 ---
 
-<div style="text-align:center" markdown="1">
-<iframe src="https://player.vimeo.com/video/219400487" width="80%" height="281" frameborder="0"></iframe>
+<div class="video-responsive">
+<iframe src="https://player.vimeo.com/video/219400487?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen" allowfullscreen title="Speaklear Intonation Demo"></iframe>
 </div>
-
 
 <br>
 
